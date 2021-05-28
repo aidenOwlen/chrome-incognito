@@ -1,0 +1,1 @@
+Autoit script to run chrome in incognito mode and hidden window without --headless parameter
